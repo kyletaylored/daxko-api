@@ -1,6 +1,6 @@
 # Daxko Operations API
 
-##About the Daxko Operations API
+## About the Daxko Operations API
 The Daxko Operations API provides client applications with access to Daxko Operations data. You will see examples with a {base_url} defined throughout the documentation website. This refers to the specific URL defined for your environment. To find out what this value is, go to the (API Reference page)[https://api.daxko.com/v3/docs/api/index.html].
 
 >All requests must be made over HTTPS, and your HTTP client must be TLS 1.2 compliant.
